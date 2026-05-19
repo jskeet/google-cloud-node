@@ -4,6 +4,4475 @@
     {
       "changes": [
         {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/databasecenter",
+      "id": "75838375-6269-4552-b3fc-9595b1559761",
+      "createTime": "2026-05-19T09:56:17.271Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/health",
+      "id": "ab7fac3a-5e3e-43c3-9fc4-d9eef37ccc2c",
+      "createTime": "2026-05-19T09:56:17.245Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/appoptimize",
+      "id": "31d8872d-3b76-465c-9f73-90b4ec109e00",
+      "createTime": "2026-05-19T09:56:17.219Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/configmanagement",
+      "id": "92846c90-0a7d-4ad9-bd85-097275c37f86",
+      "createTime": "2026-05-19T09:56:17.190Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/geocode",
+      "id": "c73acdeb-6ba9-42fc-b081-57ca218a1158",
+      "createTime": "2026-05-19T09:56:17.163Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/auditmanager",
+      "id": "fcd3ea8b-1c7e-4098-abbe-e656dddf9230",
+      "createTime": "2026-05-19T09:56:17.131Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/navconnect",
+      "id": "57c88f6b-2fbb-4c2a-bec3-68e09b4970b5",
+      "createTime": "2026-05-19T09:56:17.103Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.4.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/ces",
+      "id": "1d7e6df0-2439-445f-bb47-496b61faa51e",
+      "createTime": "2026-05-19T09:56:17.081Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/workloadmanager",
+      "id": "c85dcac3-8cac-46d2-8164-fcb453099ab3",
+      "createTime": "2026-05-19T09:56:17.056Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/visionai",
+      "id": "eaab8d9d-21f6-4f85-820a-37319cea48b3",
+      "createTime": "2026-05-19T09:56:17.026Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.1.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/workflows",
+      "id": "55f2fe1f-573d-40d7-be2a-fa5dada37229",
+      "createTime": "2026-05-19T09:56:17.000Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "3.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/typeless-sample-bot",
+      "id": "f423b257-9036-410e-af3c-1a901a65297f",
+      "createTime": "2026-05-19T09:56:16.977Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/grafeas",
+      "id": "beadcecb-92a0-414e-a9ff-e3e62664cc52",
+      "createTime": "2026-05-19T09:56:16.953Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.4.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/streetview-publish",
+      "id": "83982afc-1e8f-47cc-acca-1d7e531d2c36",
+      "createTime": "2026-05-19T09:56:16.926Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/storage-transfer",
+      "id": "d0ede8b1-30e3-498d-a114-1b3469e95f09",
+      "createTime": "2026-05-19T09:56:16.897Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.9.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/storage-control",
+      "id": "11de1213-751d-499a-987c-c02442943c25",
+      "createTime": "2026-05-19T09:56:16.863Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.6.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/reviews",
+      "id": "21abb8ef-e615-49d5-a610-dbc9cb77b458",
+      "createTime": "2026-05-19T09:56:16.834Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.15.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/reports",
+      "id": "e92ad32d-804a-464f-99ca-4dcbc79c237e",
+      "createTime": "2026-05-19T09:56:16.804Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.9.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/quota",
+      "id": "1e4be13c-089b-49a1-9527-718c8063c655",
+      "createTime": "2026-05-19T09:56:16.777Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.6.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/promotions",
+      "id": "337da59b-05f1-4d3a-9ae7-65a6fd4df17e",
+      "createTime": "2026-05-19T09:56:16.752Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.9.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/products",
+      "id": "583feddc-1c79-47b1-8951-0f89c27097ab",
+      "createTime": "2026-05-19T09:56:16.727Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/ordertracking",
+      "id": "0933be49-6c45-45d4-87fd-624d7b396d97",
+      "createTime": "2026-05-19T09:56:16.701Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.9.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/notifications",
+      "id": "f39ddaed-f8df-40ff-b674-b25f4aca5ae5",
+      "createTime": "2026-05-19T09:56:16.675Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.10.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/lfp",
+      "id": "73977fbd-da47-4f3b-ba97-ada356d34b4b",
+      "createTime": "2026-05-19T09:56:16.648Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/issueresolution",
+      "id": "a6017040-11bd-47ee-b7c9-953ffd31be9c",
+      "createTime": "2026-05-19T09:56:16.624Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.12.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/inventories",
+      "id": "bec30571-b560-4dc7-93fb-dc1164b4dd6f",
+      "createTime": "2026-05-19T09:56:16.598Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.11.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/datasources",
+      "id": "6805e460-c3eb-4f68-90af-46b4900720dc",
+      "createTime": "2026-05-19T09:56:16.563Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.7.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/conversions",
+      "id": "5d01ef5d-ca8c-4e81-bdd6-eda38fd0be41",
+      "createTime": "2026-05-19T09:56:16.522Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "3.2.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/accounts",
+      "id": "0aaf7274-7c06-4f1e-b6ae-c8de469a7b7e",
+      "createTime": "2026-05-19T09:56:16.491Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.11.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-shopping/css",
+      "id": "79e144d7-6385-4858-900b-23917966852b",
+      "createTime": "2026-05-19T09:56:16.466Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.6.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dlp",
+      "id": "7e353afe-3e4f-436b-90df-fb2dd2dadd7f",
+      "createTime": "2026-05-19T09:56:16.439Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/monitoring-dashboards",
+      "id": "a0d5ac89-4b96-44e9-b3a6-51bd83e35297",
+      "createTime": "2026-05-19T09:56:16.414Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-ads/marketing-platform-admin",
+      "id": "5d97b31d-2cee-4bad-bd26-528a69c320b9",
+      "createTime": "2026-05-19T09:56:16.389Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.5.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/solar",
+      "id": "1945c3b8-6ae2-4384-9313-a7736db78401",
+      "createTime": "2026-05-19T09:56:16.356Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/routing",
+      "id": "8282d588-d462-404d-9b07-67d227f441d8",
+      "createTime": "2026-05-19T09:56:16.330Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.6.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/routeoptimization",
+      "id": "c28b25e5-27ae-4681-a6c6-57af479578a8",
+      "createTime": "2026-05-19T09:56:16.303Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/places",
+      "id": "f59e2c37-5b04-40c0-a1f5-099e815209c0",
+      "createTime": "2026-05-19T09:56:16.277Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "3.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/maps-platform-datasets",
+      "id": "d574f6f0-9caf-4a44-ac51-1f05bb86302a",
+      "createTime": "2026-05-19T09:56:16.250Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.6.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/fleetengine-delivery",
+      "id": "3fc08a3f-3e22-4cfe-bfb6-f1aa646733f4",
+      "createTime": "2026-05-19T09:56:16.225Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.8.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/fleetengine",
+      "id": "a5bc6503-cdc0-44eb-9442-f322388769f4",
+      "createTime": "2026-05-19T09:56:16.196Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.5.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/areainsights",
+      "id": "e7cbb5c9-6a3c-4b1a-9574-9e2685621e5f",
+      "createTime": "2026-05-19T09:56:16.172Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "3.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@googlemaps/addressvalidation",
+      "id": "1222e7f2-22ba-4f79-b23e-d197a0bf9e86",
+      "createTime": "2026-05-19T09:56:16.145Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/access-context-manager",
+      "id": "4f39a439-782c-46e8-b467-cf175b28f15c",
+      "createTime": "2026-05-19T09:56:16.115Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/iam-credentials",
+      "id": "6922dd74-c28b-421a-bfae-9a87e9de57bb",
+      "createTime": "2026-05-19T09:56:16.088Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.4.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/iam",
+      "id": "df5f8c80-0f92-4052-b8f5-5cff9a2d0d48",
+      "createTime": "2026-05-19T09:56:16.063Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.7.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/containeranalysis",
+      "id": "845a84a7-afbd-4f70-baaf-a890210468ba",
+      "createTime": "2026-05-19T09:56:16.039Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.9.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/cloudprofiler",
+      "id": "4d68f565-4a34-418d-8f13-303ccfd2be08",
+      "createTime": "2026-05-19T09:56:16.011Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.5.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/cloudbuild",
+      "id": "35c46b29-8740-46c3-8380-b4263e447c14",
+      "createTime": "2026-05-19T09:56:15.988Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.7.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/artifact-registry",
+      "id": "a271593f-d0cc-414f-b2e1-36de40f212a8",
+      "createTime": "2026-05-19T09:56:15.963Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dataflow",
+      "id": "1a1b9ddc-80e7-4735-b13a-7607ed5e7d3a",
+      "createTime": "2026-05-19T09:56:15.937Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.8.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/container",
+      "id": "a8cbdf32-6381-4b02-b9aa-501f2c9799bb",
+      "createTime": "2026-05-19T09:56:15.912Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/workstations",
+      "id": "ea259553-c6a2-4b71-9283-dc915ac6f3a3",
+      "createTime": "2026-05-19T09:56:15.886Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/web-security-scanner",
+      "id": "ad22ea6b-5945-4d7c-877a-6f6afba121cf",
+      "createTime": "2026-05-19T09:56:15.859Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.3.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/web-risk",
+      "id": "e25a9589-3b90-42c7-9e1d-b98f3e460d5f",
+      "createTime": "2026-05-19T09:56:15.831Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/vpc-access",
+      "id": "d8142ce5-c738-43c3-8372-ebb8c1eb5183",
+      "createTime": "2026-05-19T09:56:15.801Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/vmwareengine",
+      "id": "0b9c8540-dded-4f8f-a229-b4b078f2229a",
+      "createTime": "2026-05-19T09:56:15.771Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.3.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/vmmigration",
+      "id": "31a058e6-69f1-487f-a03d-2acf529ff7f9",
+      "createTime": "2026-05-19T09:56:15.744Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.3.7",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/vision",
+      "id": "9e6f606f-3958-47e3-981b-0fc394e7ab0f",
+      "createTime": "2026-05-19T09:56:15.708Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/video-intelligence",
+      "id": "2f7fb83e-d64d-4571-bc06-3b6b3882520a",
+      "createTime": "2026-05-19T09:56:15.682Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.4.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/video-transcoder",
+      "id": "faf25009-17e1-4640-b53f-3cdd0557c77e",
+      "createTime": "2026-05-19T09:56:15.655Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "3.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/video-stitcher",
+      "id": "5a06ebe9-12f7-4842-8039-261d8067992b",
+      "createTime": "2026-05-19T09:56:15.614Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/livestream",
+      "id": "3a481ef3-9a7c-41d7-a267-891ae0355ce4",
+      "createTime": "2026-05-19T09:56:15.590Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.7.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/vectorsearch",
+      "id": "06a9374f-a8fd-4b7f-8279-faf191d0be0b",
+      "createTime": "2026-05-19T09:56:15.564Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "9.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/translate",
+      "id": "1765cd8e-18a3-4af4-9b0d-bdd1466ee839",
+      "createTime": "2026-05-19T09:56:15.533Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/tpu",
+      "id": "9fecb011-2db1-467e-ad1a-186b77db1abe",
+      "createTime": "2026-05-19T09:56:15.500Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/text-to-speech",
+      "id": "183eed6e-e4b1-4882-a610-b3c18a8bc0fa",
+      "createTime": "2026-05-19T09:56:15.474Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.5.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/telcoautomation",
+      "id": "06abf86b-b1fe-485b-ae15-12fcf95969aa",
+      "createTime": "2026-05-19T09:56:15.450Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/tasks",
+      "id": "1ecd71c7-6d5d-4038-8e87-9e835cadc4e1",
+      "createTime": "2026-05-19T09:56:15.426Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "7.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/talent",
+      "id": "f5d70705-7b05-49b9-9311-35c4fbb30bf1",
+      "createTime": "2026-05-19T09:56:15.402Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/support",
+      "id": "b5e0d51b-6634-432e-aaa9-bf711db03ec8",
+      "createTime": "2026-05-19T09:56:15.378Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/storageinsights",
+      "id": "607bc506-4e7f-474c-b8f1-be3b333a31b4",
+      "createTime": "2026-05-19T09:56:15.353Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.4.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/storagebatchoperations",
+      "id": "bde37666-94cb-4b1e-ade5-82dfca0c1d5f",
+      "createTime": "2026-05-19T09:56:15.329Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.24.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/sql",
+      "id": "0800d1c5-51ee-45c4-81e2-f0c22cd0ae80",
+      "createTime": "2026-05-19T09:56:15.300Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "7.3.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/speech",
+      "id": "ee23e7ae-21e3-4fa6-8bab-e53712fadee2",
+      "createTime": "2026-05-19T09:56:15.272Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/shell",
+      "id": "26c22a5e-1d46-456e-90f6-650695a94069",
+      "createTime": "2026-05-19T09:56:15.248Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.7.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/servicehealth",
+      "id": "728d5837-5af9-469a-a98b-a0301cd0164d",
+      "createTime": "2026-05-19T09:56:15.220Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/service-directory",
+      "id": "6a04489d-7a84-4321-9b6f-fb78b1418af5",
+      "createTime": "2026-05-19T09:56:15.196Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.7.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/securitycentermanagement",
+      "id": "b514b569-7d89-42e9-99b1-610439c1db7f",
+      "createTime": "2026-05-19T09:56:15.169Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "9.3.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/security-center",
+      "id": "71b0ae75-672b-4cd1-8718-06c0278bc90e",
+      "createTime": "2026-05-19T09:56:15.146Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/publicca",
+      "id": "970dce58-9437-4ee0-bdfb-6821f16712c2",
+      "createTime": "2026-05-19T09:56:15.120Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "7.0.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/security-private-ca",
+      "id": "14fb6882-9ad0-401c-8d7b-7c04a66d6218",
+      "createTime": "2026-05-19T09:56:15.093Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.9.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/securesourcemanager",
+      "id": "220d680e-a6a6-4c59-942f-02a484647b19",
+      "createTime": "2026-05-19T09:56:15.067Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/secret-manager",
+      "id": "5ceca5c8-a7fc-41f1-aa95-eca3579c1c55",
+      "createTime": "2026-05-19T09:56:15.047Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.3.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/scheduler",
+      "id": "23911a87-ef18-4810-9e3b-be83a61edb17",
+      "createTime": "2026-05-19T09:56:15.020Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.2.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/saasservicemgmt",
+      "id": "4ac2e8b5-a719-4ac4-bfdc-e0b51ee6d8e5",
+      "createTime": "2026-05-19T09:56:14.999Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "3.2.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/run",
+      "id": "2e99f64f-c49c-4b9b-9ccf-99f529b436d8",
+      "createTime": "2026-05-19T09:56:14.973Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.3.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/retail",
+      "id": "1177b308-bbef-4303-bfb6-fa07e140e88f",
+      "createTime": "2026-05-19T09:56:14.948Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/resource-manager",
+      "id": "40d20214-9aac-4e74-809a-b13c92d00b39",
+      "createTime": "2026-05-19T09:56:14.920Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.10.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/redis-cluster",
+      "id": "6c4c77cd-2a31-41c2-acf7-4bcfc2d55f16",
+      "createTime": "2026-05-19T09:56:14.895Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/redis",
+      "id": "6f0361ad-9539-4fd7-b803-09ae7dddc29c",
+      "createTime": "2026-05-19T09:56:14.868Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "7.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/recommender",
+      "id": "cf34126d-92fe-433b-b7ea-c9a230301b0a",
+      "createTime": "2026-05-19T09:56:14.845Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/recaptcha-enterprise",
+      "id": "7cf83846-03d1-4c9d-90aa-c2c64fffd459",
+      "createTime": "2026-05-19T09:56:14.823Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/rapidmigrationassessment",
+      "id": "e6a513e2-a5b0-4e2b-9025-91c2381493c2",
+      "createTime": "2026-05-19T09:56:14.793Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.6.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/privilegedaccessmanager",
+      "id": "f19a39fc-63cf-433f-8872-9a2e40d7b134",
+      "createTime": "2026-05-19T09:56:14.755Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/private-catalog",
+      "id": "b0aa8695-90ce-43b5-86af-09ccbac3be06",
+      "createTime": "2026-05-19T09:56:14.729Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.8.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/policy-troubleshooter-iam",
+      "id": "32fc5f1f-c556-4355-8177-caa72d9cfe07",
+      "createTime": "2026-05-19T09:56:14.702Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/policy-troubleshooter",
+      "id": "2c9f31f8-18ff-4338-85bc-238796fb954c",
+      "createTime": "2026-05-19T09:56:14.674Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.8.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/policysimulator",
+      "id": "2384ed59-fa3c-4f1c-b307-c84948756b06",
+      "createTime": "2026-05-19T09:56:14.650Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/phishing-protection",
+      "id": "0167e73b-9270-440e-9a16-510499f8729c",
+      "createTime": "2026-05-19T09:56:14.626Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.5.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/parametermanager",
+      "id": "d4ad848c-38ce-43af-9a6d-43d4c6355e8a",
+      "createTime": "2026-05-19T09:56:14.604Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.12.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/parallelstore",
+      "id": "de77e6a8-0b87-4511-a115-cbe108ccd99b",
+      "createTime": "2026-05-19T09:56:14.576Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/os-login",
+      "id": "1739be50-6727-45d0-afdd-981e78fb4d19",
+      "createTime": "2026-05-19T09:56:14.555Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.3.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/os-config",
+      "id": "f5a1ac1f-907f-4ce7-86d8-05ee1cf38281",
+      "createTime": "2026-05-19T09:56:14.528Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.3.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/org-policy",
+      "id": "b228f7ef-646c-41b6-a8ee-7347cf678add",
+      "createTime": "2026-05-19T09:56:14.506Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.3.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/orchestration-airflow",
+      "id": "0a04a492-599e-4d59-81c7-da7b9a341a12",
+      "createTime": "2026-05-19T09:56:14.481Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.7.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/oracledatabase",
+      "id": "6dc606b0-2b5f-4bb6-a3f8-45d9e3388ea9",
+      "createTime": "2026-05-19T09:56:14.460Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/notebooks",
+      "id": "1cdfba54-d8ee-4016-a4e3-d1accb57ff11",
+      "createTime": "2026-05-19T09:56:14.436Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.12.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/networkservices",
+      "id": "e0a38a1f-aa87-4a87-9627-6d9d1d9d91c8",
+      "createTime": "2026-05-19T09:56:14.413Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "3.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/network-security",
+      "id": "495c827e-660d-48b7-9cad-ac5bac303fb8",
+      "createTime": "2026-05-19T09:56:14.388Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.3.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/network-management",
+      "id": "68fe3f4a-02e0-45eb-9b2c-45558011cee2",
+      "createTime": "2026-05-19T09:56:14.367Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.6.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/network-connectivity",
+      "id": "384d54c3-128e-4f1a-8f36-0d7d0c4ad48a",
+      "createTime": "2026-05-19T09:56:14.345Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.18.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/netapp",
+      "id": "0aeb15e6-6270-4ae1-aa8f-54b9d04bc2a6",
+      "createTime": "2026-05-19T09:56:14.324Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.3.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/monitoring",
+      "id": "6104c3fd-1ae3-4f91-a542-e6b953cdbb52",
+      "createTime": "2026-05-19T09:56:14.299Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.5.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/modelarmor",
+      "id": "c395a28e-e782-4b59-a326-9e8b48d94333",
+      "createTime": "2026-05-19T09:56:14.277Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/migrationcenter",
+      "id": "a814a037-9feb-4f2e-b28c-f93fd688d588",
+      "createTime": "2026-05-19T09:56:14.254Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dataproc-metastore",
+      "id": "8e5e9903-2537-48b5-ba28-0128f17e58aa",
+      "createTime": "2026-05-19T09:56:14.230Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.6.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/memorystore",
+      "id": "1ad51776-1e27-4b4c-b399-b8f649935a0a",
+      "createTime": "2026-05-19T09:56:14.206Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/memcache",
+      "id": "c9b035f9-e3ef-4f82-a40d-65228eb94e26",
+      "createTime": "2026-05-19T09:56:14.184Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/media-translation",
+      "id": "d17b02bf-0bca-4c64-8efe-d80aa91195f2",
+      "createTime": "2026-05-19T09:56:14.163Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/managedkafka-schemaregistry",
+      "id": "5d1eac51-5a00-4974-a0f5-efce70114c0e",
+      "createTime": "2026-05-19T09:56:14.142Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.8.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/managedkafka",
+      "id": "f4b28568-98aa-4a3e-bfcc-92d5659350e4",
+      "createTime": "2026-05-19T09:56:14.121Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/managed-identities",
+      "id": "e185113b-9d79-4998-b281-d943ad054380",
+      "createTime": "2026-05-19T09:56:14.100Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/maintenance-api",
+      "id": "c6707434-5c47-493a-bd56-be13426d2470",
+      "createTime": "2026-05-19T09:56:14.077Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/lustre",
+      "id": "71fffabf-0675-4dfe-89c3-b7ec086a1033",
+      "createTime": "2026-05-19T09:56:14.058Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/locationfinder",
+      "id": "69160aab-c67c-4a80-9a4c-3b69d5195bf3",
+      "createTime": "2026-05-19T09:56:14.037Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/life-sciences",
+      "id": "d2ce4457-65ef-4cff-a0c9-45ae4de5be92",
+      "createTime": "2026-05-19T09:56:14.018Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/licensemanager",
+      "id": "11e405f4-3f6c-4b12-b4db-c6635783e8df",
+      "createTime": "2026-05-19T09:56:13.991Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "7.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/language",
+      "id": "37f8a6dd-ce9f-4f06-9a3c-f1b323ec4252",
+      "createTime": "2026-05-19T09:56:13.966Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.6.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/kms-inventory",
+      "id": "dba39413-0090-4af5-bf76-f1ace23b369d",
+      "createTime": "2026-05-19T09:56:13.940Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.5.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/kms",
+      "id": "25fcb69c-f2a1-4abb-9026-7de1d6d25046",
+      "createTime": "2026-05-19T09:56:13.918Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/iot",
+      "id": "4c38b753-ee52-4006-850d-c6989d5fb2ad",
+      "createTime": "2026-05-19T09:56:13.894Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/ids",
+      "id": "86288a65-0834-42ab-82bc-fb3e52099140",
+      "createTime": "2026-05-19T09:56:13.870Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/iap",
+      "id": "9b11bc67-1b69-426f-a7d5-24b807150510",
+      "createTime": "2026-05-19T09:56:13.848Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.3.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/hypercomputecluster",
+      "id": "2a2581ab-a5ca-49c1-9004-68bbfdbc6610",
+      "createTime": "2026-05-19T09:56:13.826Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gsuiteaddons",
+      "id": "86a96922-e34d-4184-b44f-25876d3d35ea",
+      "createTime": "2026-05-19T09:56:13.802Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gkerecommender",
+      "id": "443ee272-ea0b-4926-9044-d13c0b4fdce8",
+      "createTime": "2026-05-19T09:56:13.779Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.3.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gkemulticloud",
+      "id": "d38bc30a-ea88-415b-a2f2-1f4841eb63b8",
+      "createTime": "2026-05-19T09:56:13.756Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gke-hub",
+      "id": "a641c428-3431-4815-a0e0-a0e77d39f9c3",
+      "createTime": "2026-05-19T09:56:13.733Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gke-connect-gateway",
+      "id": "56597488-6f05-4105-ad28-5e4891e63d1c",
+      "createTime": "2026-05-19T09:56:13.710Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gke-backup",
+      "id": "5bb9f289-c0cd-45ed-a4d5-da5bd286e64e",
+      "createTime": "2026-05-19T09:56:13.690Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.7.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/geminidataanalytics",
+      "id": "af8b9aac-2065-48d4-a718-ef44fc010de7",
+      "createTime": "2026-05-19T09:56:13.663Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.10.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/gdchardwaremanagement",
+      "id": "57ce6b13-d5cc-4f95-93c8-596690d55c06",
+      "createTime": "2026-05-19T09:56:13.633Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/functions",
+      "id": "5e77ff3b-2b36-4ff5-8543-122ca6283935",
+      "createTime": "2026-05-19T09:56:13.613Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.4.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/financialservices",
+      "id": "b5dbd1b9-119d-4b45-b371-2cd317e7a87c",
+      "createTime": "2026-05-19T09:56:13.576Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/filestore",
+      "id": "fca04bed-5848-4523-8775-2b446bd9e685",
+      "createTime": "2026-05-19T09:56:13.549Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/eventarc-publishing",
+      "id": "fc42e1d4-6534-4fd9-aa7e-c2813558a619",
+      "createTime": "2026-05-19T09:56:13.529Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.3.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/eventarc",
+      "id": "df12960b-3b94-4972-868f-55bd6b325eb9",
+      "createTime": "2026-05-19T09:56:13.509Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/essential-contacts",
+      "id": "a77674a2-160b-4d8e-8716-f2eccb4be602",
+      "createTime": "2026-05-19T09:56:13.489Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.11.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/edgenetwork",
+      "id": "c33c957a-f09f-4000-a19d-763774921b0f",
+      "createTime": "2026-05-19T09:56:13.468Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.8.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/edgecontainer",
+      "id": "4e6243e8-e982-4f0e-8200-6a4536befc69",
+      "createTime": "2026-05-19T09:56:13.445Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/domains",
+      "id": "5793ff15-0054-4925-af35-1d063ff0450b",
+      "createTime": "2026-05-19T09:56:13.422Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "9.6.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/documentai",
+      "id": "a17bbf83-ea6f-4b5b-929a-f547455c84ba",
+      "createTime": "2026-05-19T09:56:13.401Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.3.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dns",
+      "id": "3c9b6e5f-9bdd-4dae-8667-8899b18af3b5",
+      "createTime": "2026-05-19T09:56:13.378Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.7.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/discoveryengine",
+      "id": "1fa2fe95-fdbe-4157-805c-8f0b213f9b9b",
+      "createTime": "2026-05-19T09:56:13.358Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.8.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dialogflow-cx",
+      "id": "e5894e07-e231-4267-a0cb-728362429359",
+      "createTime": "2026-05-19T09:56:13.335Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "7.6.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dialogflow",
+      "id": "7289519b-13d8-4503-908d-e2325d34cd8e",
+      "createTime": "2026-05-19T09:56:13.313Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/devicestreaming",
+      "id": "d145cbe1-552b-4ce1-b311-3f98aa40728a",
+      "createTime": "2026-05-19T09:56:13.290Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.7.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/developerconnect",
+      "id": "3a41eb7f-36cd-4475-8b7b-6fec29b8ceba",
+      "createTime": "2026-05-19T09:56:13.272Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/deploy",
+      "id": "97b07222-d2fa-4910-acf7-adbefaa48861",
+      "createTime": "2026-05-19T09:56:13.247Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.3.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/datastream",
+      "id": "b127bd4d-eb77-4daa-9dc8-475cb0a1fa78",
+      "createTime": "2026-05-19T09:56:13.226Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/data-qna",
+      "id": "22d2a777-9c1c-4bd4-bc97-5ca4c2f0eabd",
+      "createTime": "2026-05-19T09:56:13.204Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.5.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dataproc",
+      "id": "19c4311c-4b74-4c14-9576-dfe0fdcf5b01",
+      "createTime": "2026-05-19T09:56:13.178Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.5.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dataplex",
+      "id": "d30fb820-bbe4-45f6-8efe-50509aaff98d",
+      "createTime": "2026-05-19T09:56:13.155Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/datalabeling",
+      "id": "b3aafb34-8990-4074-bef3-86c6516a52cc",
+      "createTime": "2026-05-19T09:56:13.135Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/data-fusion",
+      "id": "816ab72b-104e-4ca4-8fb9-976a8842dd58",
+      "createTime": "2026-05-19T09:56:13.115Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "feat",
+          "sha": "e9ad85f0db9570343fb0625579fb9ee484280b59",
+          "message": "Add folders and teamFolders related changes to v1",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "e9ad85f0db9570343fb0625579fb9ee484280b59",
+          "message": "Update GCP Client Libraries in v1beta1 to support Folders, TeamFolders, and other relevant APIs",
+          "issues": []
+        },
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.3.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dataform",
+      "id": "e41164d4-252d-484e-b260-cc92803274bc",
+      "createTime": "2026-05-19T09:56:13.095Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/lineage",
+      "id": "23ea6523-eafe-426f-ae49-41c9e3449c48",
+      "createTime": "2026-05-19T09:56:13.070Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/datacatalog",
+      "id": "c5bb1fc7-64cb-46de-9e34-498ae1a4f482",
+      "createTime": "2026-05-19T09:56:13.050Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/contentwarehouse",
+      "id": "c6b9f3f7-8bc4-4aee-ab9b-bffacb5fe935",
+      "createTime": "2026-05-19T09:56:13.027Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/contact-center-insights",
+      "id": "15217a4e-1346-4796-b443-87235d823d46",
+      "createTime": "2026-05-19T09:56:13.004Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.5.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/connectors",
+      "id": "6c787aab-1827-426c-a8d3-df6a17e4222e",
+      "createTime": "2026-05-19T09:56:12.979Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/configdelivery",
+      "id": "25510dcc-47b8-45d3-840b-4093ea235dab",
+      "createTime": "2026-05-19T09:56:12.960Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.12.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/config",
+      "id": "fc5a5461-46dc-47d4-86df-b7b1f3608114",
+      "createTime": "2026-05-19T09:56:12.939Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.4",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/confidentialcomputing",
+      "id": "c08538a3-d94d-49f0-b35c-d08cb6615a56",
+      "createTime": "2026-05-19T09:56:12.917Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.11.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/compute",
+      "id": "659d3ecc-bb31-458c-90c3-bf243337645f",
+      "createTime": "2026-05-19T09:56:12.895Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.7.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/procurement",
+      "id": "be314219-92b1-461a-a23c-f40414f986fa",
+      "createTime": "2026-05-19T09:56:12.873Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.2.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/cloudsecuritycompliance",
+      "id": "7fb6e111-44b8-4b73-8c37-e14d41d5277a",
+      "createTime": "2026-05-19T09:56:12.847Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/dms",
+      "id": "52d54eb3-57f8-4dc8-8df4-2109c224b5b8",
+      "createTime": "2026-05-19T09:56:12.824Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.6.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/cloudcontrolspartner",
+      "id": "76bc9a88-e254-4da6-aef3-722b67270936",
+      "createTime": "2026-05-19T09:56:12.796Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.4.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/chronicle",
+      "id": "9af436ba-1c7a-43bc-bff8-e23504b03cc9",
+      "createTime": "2026-05-19T09:56:12.774Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.1.4",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/channel",
+      "id": "43eb360d-d0dc-4492-afba-5eacb4fa5352",
+      "createTime": "2026-05-19T09:56:12.747Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/certificate-manager",
+      "id": "cb4afc73-ac1b-48ce-b340-a54dcee880da",
+      "createTime": "2026-05-19T09:56:12.725Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.4",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/capacityplanner",
+      "id": "c6351591-05bd-4d61-aaf6-d3ebf60695d2",
+      "createTime": "2026-05-19T09:56:12.704Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/binary-authorization",
+      "id": "35658205-1dfa-4ec6-90ba-f072a0b2783e",
+      "createTime": "2026-05-19T09:56:12.680Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/billing-budgets",
+      "id": "115ff394-5185-41d7-99ed-860ba6766bac",
+      "createTime": "2026-05-19T09:56:12.654Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/billing",
+      "id": "8baa1a9c-779e-42d2-a55a-b740ccb912d4",
+      "createTime": "2026-05-19T09:56:12.630Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-reservation",
+      "id": "8c53ec43-f9c0-4c94-81ce-f185bbb6ea71",
+      "createTime": "2026-05-19T09:56:12.608Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-migration",
+      "id": "81e98932-c572-4212-9a03-016c287504e5",
+      "createTime": "2026-05-19T09:56:12.584Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.1.4",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-data-transfer",
+      "id": "e914ff63-26db-4224-a86d-70d170e7c980",
+      "createTime": "2026-05-19T09:56:12.558Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.3.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-datapolicies",
+      "id": "2981d304-b0b9-4e10-9fe5-d10a79ef3a69",
+      "createTime": "2026-05-19T09:56:12.536Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-data-exchange",
+      "id": "80efa22b-e13b-4e62-9022-432c369822d0",
+      "createTime": "2026-05-19T09:56:12.512Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-connection",
+      "id": "cb8745eb-b6d6-49da-8e09-fc2e780633a4",
+      "createTime": "2026-05-19T09:56:12.490Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.4.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bigquery-analyticshub",
+      "id": "0ea170f8-1bee-47ae-844b-450a78122e17",
+      "createTime": "2026-05-19T09:56:12.467Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/clientgateways",
+      "id": "24adc266-52db-43a9-9c5f-494d8c277fe0",
+      "createTime": "2026-05-19T09:56:12.449Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "3.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/clientconnectorservices",
+      "id": "4e6906d2-dfa6-4466-9129-39122bd4a80d",
+      "createTime": "2026-05-19T09:56:12.429Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/appgateways",
+      "id": "72133452-2d36-4971-9999-a269f54e7c2c",
+      "createTime": "2026-05-19T09:56:12.406Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/appconnectors",
+      "id": "75c83b28-fe1f-406d-9113-09ccf23e3d08",
+      "createTime": "2026-05-19T09:56:12.384Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/appconnections",
+      "id": "b2844be3-6527-46f3-b9d4-df31ad576f2d",
+      "createTime": "2026-05-19T09:56:12.362Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.3.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/batch",
+      "id": "ca5b6f43-4cd8-44cb-a703-7da3c56c12fb",
+      "createTime": "2026-05-19T09:56:12.335Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/bare-metal-solution",
+      "id": "0007abc5-49dd-410c-8cef-23708ceee2c6",
+      "createTime": "2026-05-19T09:56:12.312Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.8.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/backupdr",
+      "id": "70060875-9636-41ae-8bff-00e4c26dcb1c",
+      "createTime": "2026-05-19T09:56:12.286Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/automl",
+      "id": "2f8963da-83eb-42e6-b405-e5df618a8f96",
+      "createTime": "2026-05-19T09:56:12.258Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "5.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/assured-workloads",
+      "id": "50f40d9b-ee04-4267-a16a-5ca78b4fa920",
+      "createTime": "2026-05-19T09:56:12.237Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.3.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/asset",
+      "id": "7911ffd8-a46c-4430-8f02-a291196d8c3f",
+      "createTime": "2026-05-19T09:56:12.197Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.6.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/apphub",
+      "id": "4276be79-e9a9-4e2c-b3f3-5a55e0a83f4d",
+      "createTime": "2026-05-19T09:56:12.169Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.2.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/apiregistry",
+      "id": "80830c60-dc3d-424f-954a-40222f7b35d9",
+      "createTime": "2026-05-19T09:56:12.148Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.5.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/apihub",
+      "id": "2ca706ba-90ae-4b3a-9045-b67588450ebf",
+      "createTime": "2026-05-19T09:56:12.122Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/apigee-registry",
+      "id": "174037df-420f-4597-8c21-bf3ee3a8b2c4",
+      "createTime": "2026-05-19T09:56:12.097Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/apigee-connect",
+      "id": "9b8da6ae-d5d0-48e9-8820-a3c4453b0f45",
+      "createTime": "2026-05-19T09:56:12.068Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/api-gateway",
+      "id": "64425138-4c64-4e51-857e-279f8d494363",
+      "createTime": "2026-05-19T09:56:12.046Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.5.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/alloydb",
+      "id": "0b094ddf-797e-4290-8106-a241e6b3a5f2",
+      "createTime": "2026-05-19T09:56:12.024Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.8.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/aiplatform",
+      "id": "af20399f-1314-4051-af38-f9355aca7e78",
+      "createTime": "2026-05-19T09:56:12.006Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/advisorynotifications",
+      "id": "57c0e81b-a814-4c45-ab1d-1d24804b543d",
+      "createTime": "2026-05-19T09:56:11.986Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/access-approval",
+      "id": "be4621f2-b6fc-4447-90c5-788b06a97058",
+      "createTime": "2026-05-19T09:56:11.968Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.24.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-apps/chat",
+      "id": "ff4c3064-46c2-4853-996b-ee43899e85a1",
+      "createTime": "2026-05-19T09:56:11.945Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google/area120-tables",
+      "id": "fde23ac4-9acd-49ae-8835-e9eba05c9371",
+      "createTime": "2026-05-19T09:56:11.923Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.7.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-apps/meet",
+      "id": "a1d62cab-08fe-497c-a882-db775f568ef1",
+      "createTime": "2026-05-19T09:56:11.901Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/subscriptions",
+      "id": "5c14247e-ee1e-477d-8115-01033af18f7c",
+      "createTime": "2026-05-19T09:56:11.880Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/appengine-admin",
+      "id": "d4329eea-897f-4ffd-8140-e17a809b4633",
+      "createTime": "2026-05-19T09:56:11.855Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/service-usage",
+      "id": "ad5c6481-688f-4f96-8a9c-3bf047f824a3",
+      "createTime": "2026-05-19T09:56:11.835Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "3.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/service-management",
+      "id": "4ba198ed-37f0-4434-be55-7feca0e571f1",
+      "createTime": "2026-05-19T09:56:11.813Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "4.3.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/service-control",
+      "id": "5eabe219-f605-444a-8fe3-f5cc92785b6a",
+      "createTime": "2026-05-19T09:56:11.794Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.3.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/cloudquotas",
+      "id": "75c1b6c0-f613-48bb-9414-e41c737a5108",
+      "createTime": "2026-05-19T09:56:11.768Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "2.2.3",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-cloud/apikeys",
+      "id": "463a1a05-f876-452a-9ef2-a46db54c0483",
+      "createTime": "2026-05-19T09:56:11.746Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "6.0.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-analytics/data",
+      "id": "df6360e9-cadc-4c0b-a9ab-020f574f12c3",
+      "createTime": "2026-05-19T09:56:11.726Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "9.1.1",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-analytics/admin",
+      "id": "829b7a49-7e0b-4504-8431-2a4559d534d1",
+      "createTime": "2026-05-19T09:56:11.696Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "3.7.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-ai/generativelanguage",
+      "id": "1642869f-de69-4ae9-ab26-257503a2929e",
+      "createTime": "2026-05-19T09:56:11.667Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.2.2",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-ads/datamanager",
+      "id": "332eb88d-4e3a-4a91-9947-8eeba8c0003f",
+      "createTime": "2026-05-19T09:56:11.639Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Added new PUBLIC dimension: CREATIVE_SSL_COMPLIANCE_OVERRIDE_NAME",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Added new API dimension: CREATIVE_SSL_SCAN_RESULT",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Added new PUBLIC dimension: CREATIVE_SSL_SCAN_RESULT_NAME",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Added new PUBLIC metric: AD_SERVER_ACTIVE_VIEW_REVENUE",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Added new PUBLIC dimension: LINE_ITEM_AVERAGE_NUMBER_OF_VIEWERS",
+          "issues": []
+        },
+        {
+          "type": "fix",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "An existing value `DEMAND_SUBCHANNEL_ALL` is removed from enum `Dimension`",
+          "issues": [],
+          "breakingChangeNote": "An existing value `DEMAND_SUBCHANNEL_ALL` is removed from enum `Dimension`"
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Add readonly OAuth scope",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Add ProposalLineItem service and messages to the API.",
+          "issues": [],
+          "scope": "deals"
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Added new PUBLIC dimension: TARGETS_CUSTOMER_MATCHING_LIST",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Expose both `get` and `list` methods for RichMediaAdsCompanies to external clients.",
+          "issues": []
+        },
+        {
+          "type": "fix",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Changed field behavior for an existing field `display_name` in message `.google.ads.admanager.v1.Application`",
+          "issues": [],
+          "breakingChangeNote": "Changed field behavior for an existing field `display_name` in message `.google.ads.admanager.v1.Application`"
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new message `ApplicationStoreEnum` is added",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new message `ApplicationApprovalStatusEnum` is added",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new message `ApplicationPlatformEnum` is added",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new message `WebviewClaimingStatusEnum` is added",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new field `app_store_id` is added to message `.google.ads.admanager.v1.Application`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new field `app_stores` is added to message `.google.ads.admanager.v1.Application`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new field `archived` is added to message `.google.ads.admanager.v1.Application`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new field `app_store_display_name` is added to message `.google.ads.admanager.v1.Application`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new field `application_code` is added to message `.google.ads.admanager.v1.Application`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new field `developer` is added to message `.google.ads.admanager.v1.Application`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new field `platform` is added to message `.google.ads.admanager.v1.Application`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new field `free` is added to message `.google.ads.admanager.v1.Application`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new field `download_url` is added to message `.google.ads.admanager.v1.Application`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new field `approval_status` is added to message `.google.ads.admanager.v1.Application`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new field `webview_claiming_status` is added to message `.google.ads.admanager.v1.Application`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new method `CreateApplication` is added to service `ApplicationService`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new method `BatchCreateApplications` is added to service `ApplicationService`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new method `UpdateApplication` is added to service `ApplicationService`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new method `BatchUpdateApplications` is added to service `ApplicationService`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new method `BatchArchiveApplications` is added to service `ApplicationService`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new method `BatchUnarchiveApplications` is added to service `ApplicationService`",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new message `CreateApplicationRequest` is added",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new message `BatchCreateApplicationsRequest` is added",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new message `BatchCreateApplicationsResponse` is added",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new message `UpdateApplicationRequest` is added",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new message `BatchUpdateApplicationsRequest` is added",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new message `BatchUpdateApplicationsResponse` is added",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new message `BatchArchiveApplicationsRequest` is added",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new message `BatchArchiveApplicationsResponse` is added",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new message `BatchUnarchiveApplicationsRequest` is added",
+          "issues": []
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "A new message `BatchUnarchiveApplicationsResponse` is added",
+          "issues": []
+        },
+        {
+          "type": "fix",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Removed UNIFIED_PRICING_RULE_ID dimension",
+          "issues": [],
+          "breakingChangeNote": "Removed UNIFIED_PRICING_RULE_ID dimension"
+        },
+        {
+          "type": "fix",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Removed UNIFIED_PRICING_RULE_NAME dimension",
+          "issues": [],
+          "breakingChangeNote": "Removed UNIFIED_PRICING_RULE_NAME dimension"
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Added child publisher resource.",
+          "issues": [],
+          "scope": "child_publisher"
+        },
+        {
+          "type": "fix",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Remove unused AdManagerError type",
+          "issues": [],
+          "breakingChangeNote": "Remove unused AdManagerError type"
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "Added McmEarnings service",
+          "issues": [],
+          "scope": "mcm_earnings"
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "This is referenced for delegation_type in mcm_earnings",
+          "issues": [],
+          "scope": "DelegationTypeEnum"
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "New REQUIRED field `display_name` in message `.google.ads.admanager.v1.Label`",
+          "issues": [],
+          "breakingChangeNote": "New REQUIRED field `display_name` in message `.google.ads.admanager.v1.Label`"
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "New REQUIRED field `types` in message `.google.ads.admanager.v1.Label`",
+          "issues": [],
+          "breakingChangeNote": "New REQUIRED field `types` in message `.google.ads.admanager.v1.Label`"
+        },
+        {
+          "type": "feat",
+          "sha": "dfd3f1eb39ed1839f4d25729dd6143a97707c87c",
+          "message": "[admanager] added new API dimension: CREATIVE_SSL_COMPLIANCE_OVERRIDE",
+          "issues": []
+        }
+      ],
+      "version": "0.6.0",
+      "language": "JAVASCRIPT",
+      "artifactName": "@google-ads/admanager",
+      "id": "cbf587be-8e11-4ca5-a01d-24699e2bbe9c",
+      "createTime": "2026-05-19T09:56:11.616Z"
+    },
+    {
+      "changes": [
+        {
+          "type": "fix",
+          "sha": "6f3b9a9d829ff66db2a6e4c123730461693cf973",
+          "message": "Trigger release after eslint config cleanup",
+          "issues": [
+            "8299"
+          ],
+          "scope": "gapic-generator"
+        }
+      ],
+      "version": "0.1.9",
+      "language": "JAVASCRIPT",
+      "artifactName": "gapic-node-processing",
+      "id": "e11859d4-cb9e-4208-bc98-4c5d38a693f2",
+      "createTime": "2026-05-19T09:56:11.581Z"
+    },
+    {
+      "changes": [
+        {
           "type": "feat",
           "sha": "d67ad568b13e6b12c4d16b9b34dbde41b6eac4a5",
           "message": "[container] add confidential instance type and hyperdisk support to GKE API",
@@ -78784,5 +83253,5 @@
       "createTime": "2023-01-28T04:18:24.718Z"
     }
   ],
-  "updateTime": "2026-05-14T00:02:24.695Z"
+  "updateTime": "2026-05-19T09:56:17.271Z"
 }
